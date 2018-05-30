@@ -1,0 +1,6 @@
+[package]
+name = "minigrep"
+version = "0.1.0"
+authors = ["HenryNguyen5 <ngu.henry@hotmail.com>"]
+
+[dependencies]
